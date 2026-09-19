@@ -128,7 +128,7 @@ thermal-stress-southern-brazil/
 ├── CITATION.cff
 │
 └── R/
-    └── climatologia_ITU_Sul.R
+    └── Script Download de Dados.R
 ```
 
 ## Running the analysis
